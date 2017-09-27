@@ -1,0 +1,8 @@
+name: LobbyDisplay
+main: com.mcndsj.Lobby_Display.Lobby_Display
+version: 0.0.1-SNAPSHOT
+depend: [SQL_lib, ViaVersion]
+commands:
+  chenghao:
+    description: Main command!
+    aliases: [chenghao]
